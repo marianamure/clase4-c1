@@ -1,1 +1,2 @@
-console.log("hola mundo")
+let variable = "Odin"
+console.log("hola" + variable);
